@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZelwixOS
-- 👀 I’m interested in web and descktop applications develepment, also I'd like to receive some exp. in video-games development
+- 👀 I’m interested in web and desktop applications develepment, also I'd like to receive some exp. in video-games development
 - 🌱 I’m currently starting to learn Python to continue my education
 - 📫 How to reach me? Thats easy:
   - email: vafin_01@mail.ru
